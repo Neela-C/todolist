@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/todoList/static/css/main.e4516602.chunk.css",
-    "main.js": "/todoList/static/js/main.e0299b1b.chunk.js",
-    "main.js.map": "/todoList/static/js/main.e0299b1b.chunk.js.map",
-    "runtime-main.js": "/todoList/static/js/runtime-main.69c92f1f.js",
-    "runtime-main.js.map": "/todoList/static/js/runtime-main.69c92f1f.js.map",
-    "static/js/2.99094041.chunk.js": "/todoList/static/js/2.99094041.chunk.js",
-    "static/js/2.99094041.chunk.js.map": "/todoList/static/js/2.99094041.chunk.js.map",
-    "static/js/3.419b3735.chunk.js": "/todoList/static/js/3.419b3735.chunk.js",
-    "static/js/3.419b3735.chunk.js.map": "/todoList/static/js/3.419b3735.chunk.js.map",
-    "index.html": "/todoList/index.html",
-    "static/css/main.e4516602.chunk.css.map": "/todoList/static/css/main.e4516602.chunk.css.map",
-    "static/js/2.99094041.chunk.js.LICENSE.txt": "/todoList/static/js/2.99094041.chunk.js.LICENSE.txt"
+    "main.css": "/todolist/static/css/main.e4516602.chunk.css",
+    "main.js": "/todolist/static/js/main.e0299b1b.chunk.js",
+    "main.js.map": "/todolist/static/js/main.e0299b1b.chunk.js.map",
+    "runtime-main.js": "/todolist/static/js/runtime-main.469a6d46.js",
+    "runtime-main.js.map": "/todolist/static/js/runtime-main.469a6d46.js.map",
+    "static/js/2.99094041.chunk.js": "/todolist/static/js/2.99094041.chunk.js",
+    "static/js/2.99094041.chunk.js.map": "/todolist/static/js/2.99094041.chunk.js.map",
+    "static/js/3.419b3735.chunk.js": "/todolist/static/js/3.419b3735.chunk.js",
+    "static/js/3.419b3735.chunk.js.map": "/todolist/static/js/3.419b3735.chunk.js.map",
+    "index.html": "/todolist/index.html",
+    "static/css/main.e4516602.chunk.css.map": "/todolist/static/css/main.e4516602.chunk.css.map",
+    "static/js/2.99094041.chunk.js.LICENSE.txt": "/todolist/static/js/2.99094041.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.69c92f1f.js",
+    "static/js/runtime-main.469a6d46.js",
     "static/js/2.99094041.chunk.js",
     "static/css/main.e4516602.chunk.css",
     "static/js/main.e0299b1b.chunk.js"
